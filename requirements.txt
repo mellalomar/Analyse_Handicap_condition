@@ -5,4 +5,4 @@ plotly==5.17.0
 st-aggrid==0.3.4
 matplotlib==3.8.1
 seaborn==0.13.0
-openpyxl==3.11.2
+openpyxl
