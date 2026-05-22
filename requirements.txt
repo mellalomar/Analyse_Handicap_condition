@@ -1,7 +1,5 @@
 streamlit==1.28.1
-numpy==1.24.3
-plotly==5.17.0
-st-aggrid==0.3.4
-matplotlib==3.8.1
-seaborn==0.13.0
+numpy>=2.0.0
+pandas>=2.2.0
+streamlit-aggrid==1.0.5
 openpyxl
