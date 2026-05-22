@@ -1,3 +1,4 @@
 openpyxl
 matplotlib
 plotly
+st_aggrid 
